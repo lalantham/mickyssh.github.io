@@ -21,11 +21,9 @@ Creating and Using Free Tunneling Account can encrypt and secure your connection
 
 ## OpenVPN Configurations
         1. Server 1
-           - US Server 1 - http://150.136.53.23:86
            - US Server 1 - http://150.136.53.23/Configs.zip
            
          2. Server 2
-           - US Server 2 - http://129.213.114.84:86
            - US Server 2 - http://129.213.114.84/Configs.zip
 
 ## Upcomming
