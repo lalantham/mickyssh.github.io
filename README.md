@@ -21,7 +21,7 @@
 
 -------------------------
 
-  2. US Server
+ 2. US Server
      - Ip: 129.213.114.84
      - Username: lalantha
      - Password: lalantha
