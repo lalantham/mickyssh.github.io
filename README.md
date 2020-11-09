@@ -35,7 +35,7 @@ Creating and Using Free Tunneling Account can encrypt and secure your connection
 
 If you have any issue feel free to contach me on: 
 - [Facebook](https://www.facebook.com/lalanthamadushan82) 
-- [lalantha.live](http://lalantha.live/)
+- [Lalantha.live](http://lalantha.live/)
 - [My Github](https://github.com/lalantham)
 
 ### &copy; Lalantha | 2020
