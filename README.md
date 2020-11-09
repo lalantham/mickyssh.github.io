@@ -28,8 +28,8 @@ Creating and Using Free Tunneling Account can encrypt and secure your connection
 
 ## Upcomming
 
-1. We hope to add more servers soon. Keep in touch...
-2. How create your own SSH server
+- We hope to add more servers soon. Keep in touch...
+- How create your own SSH server
 
 ## Support 
 
