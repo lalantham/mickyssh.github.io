@@ -1,8 +1,8 @@
 ## Free SSH/SSL Servers
 
-Fast Data Transfer High Speed Connection Create SSH Account VPN Account Premium SSH Account.
+- Fast Data Transfer High Speed Connection Create SSH Account VPN Account Premium SSH Account.
 
-Creating and Using Free Tunneling Account can encrypt and secure your connection on internet. With that, You can surfing on internet without afraid just for $0.
+- Creating and Using Free Tunneling Account can encrypt and secure your connection on internet. With that, You can surfing on internet without afraid just for $0.
 
 ## Service Ports
 
