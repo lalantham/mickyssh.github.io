@@ -36,4 +36,4 @@ We hope to add more servers soon. Keep in Touch...
 
 If you have any issue feel free to contach me on [Facebook](https://www.facebook.com/lalanthamadushan82). For More Information Visit [lalantha.live](http://lalantha.live/)
 
-> &copy;LalanthaM - 2020
+                                                                      > & copy; LalanthaM - 2020
