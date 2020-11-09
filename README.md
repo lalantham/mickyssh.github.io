@@ -14,4 +14,7 @@ Creating and Using Free Tunneling Account can encrypt and secure your connection
 
 ## Servers
 
-
+        1. US Server                                              2. US Server
+          - Ip: 150.136.53.23                                        - Ip: 129.213.114.84
+          - Username: lalantha                                       - Username: lalantha
+          - Password: lalantha                                       - Password: lalantha
