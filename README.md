@@ -16,20 +16,21 @@
 
 ## Servers
 
-1. US Server                                             
-    - Ip: 150.136.53.23
-     - Username: lalantha
-     - Password: lalantha
+    1. US Server                                             
+        - Ip: 150.136.53.23
+         - Username: lalantha
+         - Password: lalantha
 
--------------------------
+    -------------------------
 
-2. US Server
-     - Ip: 129.213.114.84
-     - Username: lalantha
-     - Password: lalantha
+    2. US Server
+         - Ip: 129.213.114.84
+         - Username: lalantha
+         - Password: lalantha
 
 
 ## OpenVPN Configurations
+
    1. Server 1
        - US Server 1 - http://150.136.53.23/Configs.zip
            
