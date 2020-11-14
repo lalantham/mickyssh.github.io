@@ -7,24 +7,23 @@
 
 ## Service Ports
 
-- OpenSSH Port: 22, 225
-- Dropbear Port: 555, 550
-- SSL Port: 587, 443, 444
+- OpenSSH Port: 22, 444
+- Dropbear Port: 80, 143
+- SSL Port: 443
 - Proxy Ports: 8000 8080
-- OpenVPN Port: 110, 25980
 
 
 ## Servers
 
 * US Server                                             
-    - Ip: 150.136.53.23
+    - Ip: 150.136.170.110
     - Username: lalantha
     - Password: lalantha
 
 -------------------------
 
 * US Server
-    - Ip: 129.213.114.84
+    - Ip: 150.136.242.129
     - Username: lalantha
     - Password: lalantha
 
@@ -32,10 +31,10 @@
 ## OpenVPN Configurations
 
 * Server 1
-    - US Server 1 - http://150.136.53.23/Configs.zip
+    - US Server 1 - http://150.136.170.110:81/client-tcp.ovpn
            
 * Server 2
-    - US Server 2 - http://129.213.114.84/Configs.zip
+    - US Server 2 - http://150.136.242.129:81/client-tcp.ovpn
 
 
 ## Upcomming
