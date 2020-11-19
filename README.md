@@ -15,14 +15,21 @@
 
 ## Servers
 
-* US Server                                             
+* Singapore Server 01                                            
+    - Ip: 159.65.132.118
+    - Username: lalantha
+    - Password: lalantha
+
+-------------------------
+
+* US Server 01                                            
     - Ip: 150.136.170.110
     - Username: lalantha
     - Password: lalantha
 
 -------------------------
 
-* US Server
+* US Server 02
     - Ip: 150.136.242.129
     - Username: lalantha
     - Password: lalantha
@@ -30,10 +37,13 @@
 
 ## OpenVPN Configurations
 
-* Server 1
+* Singapore Server
+    - US Server 1 - http://159.65.132.118/configs.zip
+
+* US Server
     - US Server 1 - http://150.136.170.110:81/client-tcp.ovpn
            
-* Server 2
+* US Server
     - US Server 2 - http://150.136.242.129:81/client-tcp.ovpn
 
 
