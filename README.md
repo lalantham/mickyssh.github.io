@@ -11,12 +11,13 @@
 - Dropbear Port: 80, 143
 - SSL Port: 443
 - Proxy Ports: 8000 8080
+- BadVPN Port: 7300
 
 
 ## Servers
 
 * Singapore Server 01                                            
-    - Ip: 159.65.132.118
+    - Ip: 157.230.39.166
     - Username: lalantha
     - Password: lalantha
 
@@ -38,7 +39,7 @@
 ## OpenVPN Configurations
 
 * Singapore Server
-    - US Server 1 - http://159.65.132.118/configs.zip
+    - US Server 1 - http://157.230.39.166/configs.zip
 
 * US Server
     - US Server 1 - http://150.136.170.110:81/client-tcp.ovpn
