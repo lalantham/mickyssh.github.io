@@ -4,6 +4,7 @@
 
 - Creating and Using Free Tunneling Account can encrypt and secure your connection on internet. With that, You can surfing on internet without afraid just for $0.
 
+- BadVPN Enabled Servers. Whatsapp Call and Gaming Support.
 
 ## Service Ports
 
