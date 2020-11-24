@@ -6,6 +6,10 @@
 
 - BadVPN Enabled Servers. Whatsapp Call and Gaming Support.
 
+## Latest News
+
+- Singapore Server New Ip Updated (Sorry for the Inconvenience)
+
 ## Service Ports
 
 - OpenSSH Port: 22, 444
@@ -18,7 +22,7 @@
 ## Servers
 
 * Singapore Server 01                                            
-    - Ip: 157.230.39.166
+    - Ip: 52.230.87.127
     - Username: lalantha
     - Password: lalantha
 
