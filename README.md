@@ -44,7 +44,7 @@
 ## OpenVPN Configurations
 
 * Singapore Server
-    - US Server 1 - http://157.230.39.166/configs.zip
+    - US Server 1 - http://52.230.87.127/configs.zip
 
 * US Server
     - US Server 1 - http://150.136.170.110:81/client-tcp.ovpn
