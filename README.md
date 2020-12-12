@@ -8,6 +8,7 @@
 
 ## Latest News
 
+- V2Ray Server Added
 - Singapore Server New Ip Updated (Sorry for the Inconvenience)
 
 ## Service Ports
@@ -39,6 +40,24 @@
     - Ip: 150.136.242.129
     - Username: lalantha
     - Password: lalantha
+
+
+## V2Ray Server (Singapore)
+
+* Manual Configuration
+    - Host: www.mickyssh.cf
+    - Server Port: 443
+    - User ID: cfcd6658-c34a-47a2-a216-0d2d5151ac44
+    - Alter Id: 32
+    - Security: None
+    - Network Type: WebSocket
+    - WebSocket Header: Put Your Free Host
+    - WebSocket Path: /b74d628f0c403e4/
+    - TLS: Enable
+    - TLS SNI: Put Your Free Host
+    - Allow Insecure: Enable
+* Code
+    - vmess://d3VsYWJpbmdfd3d3Lm1pY2t5c3NoLmNmID0gdm1lc3MsIHd3dy5taWNreXNzaC5jZiwgICAgIDQ0MywgY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNSwgImNmY2Q2NjU4LWMzNGEtNDdhMi1hMjE2LTBkMmQ1MTUxYWM0NCIsIG92ZXItdGxzPXRydWUsICAgICBjZXJ0aWZpY2F0ZT0xLCBvYmZzPXdzLCBvYmZzLXBhdGg9Ii9iNzRkNjI4ZjBjNDAzZTQvIiwgCg==
 
 
 ## OpenVPN Configurations
