@@ -51,10 +51,10 @@
     - Alter Id: 32
     - Security: None
     - Network Type: WebSocket
-    - WebSocket Header: Put Your Free Host
+    - WebSocket Header: Put Your Host
     - WebSocket Path: /b74d628f0c403e4/
     - TLS: Enable
-    - TLS SNI: Put Your Free Host
+    - TLS SNI: Put Your Host
     - Allow Insecure: Enable
 
 * Code
