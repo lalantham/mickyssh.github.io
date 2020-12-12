@@ -45,6 +45,7 @@
 ## V2Ray Server (Singapore)
 
 * Manual Configuration
+    - Protocol: vmess
     - Host: www.mickyssh.cf
     - Server Port: 443
     - User ID: cfcd6658-c34a-47a2-a216-0d2d5151ac44
