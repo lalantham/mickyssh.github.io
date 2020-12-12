@@ -58,7 +58,9 @@
     - Allow Insecure: Enable
 
 * Code
-    - vmess://d3VsYWJpbmdfd3d3Lm1pY2t5c3NoLmNmID0gdm1lc3MsIHd3dy5taWNreXNzaC5jZiwgICAgIDQ0MywgY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNSwgImNmY2Q2NjU4LWMzNGEtNDdhMi1hMjE2LTBkMmQ1MTUxYWM0NCIsIG92ZXItdGxzPXRydWUsICAgICBjZXJ0aWZpY2F0ZT0xLCBvYmZzPXdzLCBvYmZzLXBhdGg9Ii9iNzRkNjI4ZjBjNDAzZTQvIiwgCg==
+    - ```Bash
+    vmess://d3VsYWJpbmdfd3d3Lm1pY2t5c3NoLmNmID0gdm1lc3MsIHd3dy5taWNreXNzaC5jZiwgICAgIDQ0MywgY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNSwgImNmY2Q2NjU4LWMzNGEtNDdhMi1hMjE2LTBkMmQ1MTUxYWM0NCIsIG92ZXItdGxzPXRydWUsICAgICBjZXJ0aWZpY2F0ZT0xLCBvYmZzPXdzLCBvYmZzLXBhdGg9Ii9iNzRkNjI4ZjBjNDAzZTQvIiwgCg==
+    ```
 
 * You can Use Code for import settings automatically. Even you import settings via Code still you need to add "WebSocket Header", "TLS SNI" manualy. recommended methode is Manual Configuration.
 
