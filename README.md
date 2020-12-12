@@ -57,7 +57,7 @@
     - TLS SNI: Put Your Host
     - Allow Insecure: Enable
 
-* Code
+* Configuration Import Code
     - [Clik Here for Code](https://hackmd.io/@lalantha/VMess) 
 
 * You can Use Code for import settings automatically. Even you import settings via Code still you need to add "WebSocket Header", "TLS SNI" manualy. recommended methode is Manual Configuration.
