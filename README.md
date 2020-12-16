@@ -8,8 +8,8 @@
 
 ## Latest News
 
+- Date: 2020-12-16: Singapore Server New Ip Updated.
 - V2Ray Server Added
-- Singapore Server New Ip Updated (Sorry for the Inconvenience)
 
 ## Service Ports
 
@@ -23,7 +23,7 @@
 ## Servers
 
 * Singapore Server 01                                            
-    - Ip: 52.230.87.127
+    - Ip: 23.101.20.54
     - Username: lalantha
     - Password: lalantha
 
