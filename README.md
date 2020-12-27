@@ -23,7 +23,7 @@
 ## Servers
 
 * Singapore Server 01                                            
-    - Ip: 13.67.91.108
+    - Ip: 206.189.47.27
     - Username: lalantha
     - Password: lalantha
 
