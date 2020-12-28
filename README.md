@@ -31,7 +31,7 @@
 -------------------------
 
 * US Server 01                                            
-    - Ip: 132.145.173.119
+    - Ip: 129.213.122.165
     - Username: lalantha
     - Password: lalantha
 
