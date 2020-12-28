@@ -31,14 +31,14 @@
 -------------------------
 
 * US Server 01                                            
-    - Ip: 150.136.170.110
+    - Ip: 132.145.173.119
     - Username: lalantha
     - Password: lalantha
 
 -------------------------
 
 * US Server 02
-    - Ip: 150.136.242.129
+    - Ip: 132.145.173.119
     - Username: lalantha
     - Password: lalantha
     
