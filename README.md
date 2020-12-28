@@ -8,15 +8,16 @@
 
 ## Latest News
 
-- 2020-12-16: Singapore Server New Ip Updated.
-- 2020-12-16: V2Ray Server Currently Not Working
+- 2020-12-28: New Two Australia (Melbourne) Servers Added.
+- 2020-12-26: Singapore Server New Ip Updated.
+- 2020-12-26: V2Ray Server Currently Not Working.
 
 ## Service Ports
 
-- OpenSSH Port: 22, 444
-- Dropbear Port: 80, 143
-- SSL Port: 443
-- Proxy Ports: 8000 8080
+- SSH Port: 22
+- Dropbear Port: 80
+- Stunnel Port: 443
+- Squid Proxy Ports: 8080, 3128
 - BadVPN Port: 7300
 
 
@@ -40,40 +41,26 @@
     - Ip: 150.136.242.129
     - Username: lalantha
     - Password: lalantha
+    
+-------------------------
 
+* Australia Server 01                                            
+    - Ip: 168.138.10.35
+    - Username: lalantha
+    - Password: lalantha
+
+-------------------------
+
+* Australia Server 02                                            
+    - Ip: 168.138.12.39
+    - Username: lalantha
+    - Password: lalantha
+
+-------------------------
 
 ## V2Ray Server (Singapore)
 
-* Manual Configuration
-    - Protocol: vmess
-    - Host: www.mickyssh.cf
-    - Server Port: 443
-    - User ID: cfcd6658-c34a-47a2-a216-0d2d5151ac44
-    - Alter Id: 32
-    - Security: None
-    - Network Type: WebSocket
-    - WebSocket Header: Put Your Host
-    - WebSocket Path: /b74d628f0c403e4/
-    - TLS: Enable
-    - TLS SNI: Put Your Host
-    - Allow Insecure: Enable
-
-* Configuration Import Code
-    - [Clik Here for Code](https://hackmd.io/@lalantha/VMess) 
-
-* You can Use Code for import settings automatically. Even you import settings via Code still you need to add "WebSocket Header", "TLS SNI" manualy. recommended methode is Manual Configuration.
-
-
-## OpenVPN Configurations
-
-* Singapore Server
-    - US Server 1 - http://52.230.87.127/configs.zip
-
-* US Server
-    - US Server 1 - http://150.136.170.110:81/client-tcp.ovpn
-           
-* US Server
-    - US Server 2 - http://150.136.242.129:81/client-tcp.ovpn
+* V2Ray Server Currently Not Working. We Will Fix It Soon.
 
 
 ## Upcomming
