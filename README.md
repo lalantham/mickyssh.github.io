@@ -25,8 +25,8 @@
 
 * Singapore Server 01                                            
     - Ip: 206.189.47.27
-    - Username: lalantha
-    - Password: lalantha
+    - Username: micky
+    - Password: micky
 
 -------------------------
 
