@@ -6,6 +6,10 @@
 
 - BadVPN Enabled Servers. Whatsapp Call and Gaming Support.
 
+## For Personal Accounts
+
+- Contact Me on Facebook or Whatsapp
+
 ## Latest News
 
 - 2020-12-28: New Two Australia (Melbourne) Servers Added.
