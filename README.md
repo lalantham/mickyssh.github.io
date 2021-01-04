@@ -12,6 +12,7 @@
 
 ## Latest News
 
+- 2020-01-04: Update Singapore Server Username and Password.
 - 2020-12-28: New Two Australia (Melbourne) Servers Added.
 - 2020-12-26: Singapore Server New Ip Updated.
 - 2020-12-26: V2Ray Server Currently Not Working.
