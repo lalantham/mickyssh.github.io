@@ -61,7 +61,6 @@
     - Password: lalantha
 
 -------------------------
-.
 
 ## V2Ray Server (Singapore)
 
