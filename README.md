@@ -77,7 +77,7 @@
 ## Support 
 
 If you have any issue feel free to contact me on: 
-- [Facebook](https://www.facebook.com/lalanthamadushan82) | - [Lalantha.me](https://lalantha.me/) | - [My Github](https://github.com/lalantham)
+[Facebook](https://www.facebook.com/lalanthamadushan82) | [Lalantha.me](https://lalantha.me/) | [My Github](https://github.com/lalantham)
 
 
 ### &copy; Lalantha | 2020
