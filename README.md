@@ -18,49 +18,37 @@
 
 ## Service Ports
 
-- SSH Port: 22
-- Dropbear Port: 80
-- Stunnel Port: 443
-- Squid Proxy Ports: 8080, 3128
-- BadVPN Port: 7300
+| Service  | Port |
+| ------------- | ------------- |
+| SSH  | 22  |
+| Dropbear  | 80  |
+| Stunnel  | 443  |
+| Squid Proxy  | 8080, 3128  |
+| BadVPN  | 7300  |
+| OpenVPN  | -  |
 
 
 ## Servers
 
-* Singapore Server 01                                            
-    - Ip: 206.189.47.27
-    - Username: micky
-    - Password: micky
+| Singapore  | SG01 |
+| ------------- | ------------- |
+| Ip  | 206.189.47.27  |
+| Username  | micky  |
+| Password  | micky  |
 
--------------------------
 
-* US Server 01                                            
-    - Ip: 129.213.122.165
-    - Username: lalantha
-    - Password: lalantha
+| US Server 01  | US01 | US Server 01  | US01 |
+| ------------- | ------------- | ------------- | ------------- |
+| Ip  | 129.213.122.165  | Ip  | 132.145.173.119  |
+| Username  | lalantha  | Username  | lalantha  |
+| Password  | lalantha  | Password  | lalantha  |
 
--------------------------
+| Australia Server 01  | AZ01 | Australia Server 02  | AZ02 |
+| ------------- | ------------- | ------------- | ------------- |
+| Ip  | 168.138.10.35  | Ip  | 168.138.12.39  |
+| Username  | lalantha  | Username  | lalantha  |
+| Password  | lalantha  | Password  | lalantha  |
 
-* US Server 02
-    - Ip: 132.145.173.119
-    - Username: lalantha
-    - Password: lalantha
-    
--------------------------
-
-* Australia Server 01                                            
-    - Ip: 168.138.10.35
-    - Username: lalantha
-    - Password: lalantha
-
--------------------------
-
-* Australia Server 02                                            
-    - Ip: 168.138.12.39
-    - Username: lalantha
-    - Password: lalantha
-
--------------------------
 
 ## V2Ray Server (Singapore)
 
