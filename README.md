@@ -30,14 +30,14 @@
 
 ## Servers
 
-| Singapore  | SG01 | US Server 01  | US01 | US Server 01  | US01 |
+| Singapore  | SG01 | US 01  | US01 | US 01  | US01 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Ip  | 206.189.47.27  | Ip  | 129.213.122.165  | Ip  | 132.145.173.119  |
 | Username  | micky  | Username  | lalantha  | Username  | lalantha  |
 | Password  | micky  | Password  | lalantha  | Password  | lalantha  |
 
 
-| Australia Server 01  | AZ01 | Australia Server 02  | AZ02 |
+| Australia 01  | AZ01 | Australia 02  | AZ02 |
 | ------------- | ------------- | ------------- | ------------- |
 | Ip  | 168.138.10.35  | Ip  | 168.138.12.39  |
 | Username  | lalantha  | Username  | lalantha  |
