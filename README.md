@@ -61,7 +61,7 @@
     - Password: lalantha
 
 -------------------------
-.
+
 ## V2Ray Server (Singapore)
 
 * V2Ray Server Currently Not Working.
