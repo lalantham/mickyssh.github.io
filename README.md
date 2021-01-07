@@ -29,25 +29,25 @@
 
 | Singapore 01  |   |  Singapore 02 |
 | ------------- | ------------- | ------------- |
-| Ip: 206.189.47.27 |  | Ip: 52.187.128.53 |
-| Username: micky  |  | Username: micky |
-| Password: micky  |   | Username: micky |
+| **Ip:** 206.189.47.27 |  | **Ip:** 52.187.128.53 |
+| **Username:** micky  |  | **Username:** micky |
+| **Password:** micky  |   | **Password:** micky |
 
 -------------------------
 
 | US 01  |   |  US 02 |
 | ------------- | ------------- | ------------- |
-| Ip: 129.213.122.165 |  | Ip: 132.145.173.119 |
-| Username: lalantha  |  | Username: lalantha |
-| Password: lalantha  |   | Username: lalantha |
+| **Ip:** 129.213.122.165 |  | **Ip:** 132.145.173.119 |
+| **Username:** lalantha  |  | **Username:** lalantha |
+| **Password:** lalantha  |   | **Password:** lalantha |
     
 -------------------------
 
 | Australia 01  |   |  Australia 02 |
 | ------------- | ------------- | ------------- |
-| Ip: 168.138.10.35 |  | Ip: 168.138.12.39 |
-| Username: lalantha  |  | Username: lalantha |
-| Password: lalantha  |   | Username: lalantha |
+| **Ip:** 168.138.10.35 |  | **Ip:** 168.138.12.39 |
+| **Username:** lalantha  |  | **Username:** lalantha |
+| **Password:** lalantha  |   | **Password:** lalantha |
 
 -------------------------
 
