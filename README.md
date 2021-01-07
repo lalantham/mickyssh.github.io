@@ -35,6 +35,13 @@
 
 -------------------------
 
+* Singapore Server 02                                            
+    - Ip: 52.187.128.53
+    - Username: micky
+    - Password: micky
+
+-------------------------
+
 * US Server 01                                            
     - Ip: 129.213.122.165
     - Username: lalantha
