@@ -25,48 +25,29 @@
 - Squid Proxy Ports: 8080, 3128
 - BadVPN Port: 7300
 
-
 ## Servers
 
-* Singapore Server 01                                            
-    - Ip: 206.189.47.27
-    - Username: micky
-    - Password: micky
+| Singapore 01  |   |  Singapore 02 |
+| ------------- | ------------- | ------------- |
+| Ip: 206.189.47.27 |  | Ip: 52.187.128.53 |
+| Username: micky  |  | Username: micky |
+| Password: micky  |   | Username: micky |
 
 -------------------------
 
-* Singapore Server 02                                            
-    - Ip: 52.187.128.53
-    - Username: micky
-    - Password: micky
-
--------------------------
-
-* US Server 01                                            
-    - Ip: 129.213.122.165
-    - Username: lalantha
-    - Password: lalantha
-
--------------------------
-
-* US Server 02
-    - Ip: 132.145.173.119
-    - Username: lalantha
-    - Password: lalantha
+| US 01  |   |  US 02 |
+| ------------- | ------------- | ------------- |
+| Ip: 129.213.122.165 |  | Ip: 132.145.173.119 |
+| Username: lalantha  |  | Username: lalantha |
+| Password: lalantha  |   | Username: lalantha |
     
 -------------------------
 
-* Australia Server 01                                            
-    - Ip: 168.138.10.35
-    - Username: lalantha
-    - Password: lalantha
-
--------------------------
-
-* Australia Server 02                                            
-    - Ip: 168.138.12.39
-    - Username: lalantha
-    - Password: lalantha
+| Australia 01  |   |  Australia 02 |
+| ------------- | ------------- | ------------- |
+| Ip: 168.138.10.35 |  | Ip: 168.138.12.39 |
+| Username: lalantha  |  | Username: lalantha |
+| Password: lalantha  |   | Username: lalantha |
 
 -------------------------
 
