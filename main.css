@@ -1,0 +1,68 @@
+
+body {
+  font-family: 'Cambria';
+  /*font-style: Italic;*/
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding:20px;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  font-size:20px;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+  .column {
+    flex: 46%;
+    max-width: 46%;
+  }
+}
+
+.card {
+  opacity: 0.8;
+  filter: alpha(opacity=60);
+}
+.card-title {
+  font-weight:bold;
+  text-align: center;
+}
+.card-text {
+  text-align: justify;
+}
+
+.modal-header {
+  background-image: linear-gradient(#7FDBFF,white);
+}
+.modal-footer {
+  background-image: linear-gradient(white,#7FDBFF);
+}
+#left-panel-link {
+  position: relative;
+  left: 5%;
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+#right-panel-link {
+  position: absolute;
+  right: 10%;
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.sep {
+  height: 25px;
+}
