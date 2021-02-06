@@ -34,13 +34,6 @@ body {
 .card-text {
   text-align: justify;
 }
-
-.modal-header {
-  background-image: linear-gradient(#7FDBFF,white);
-}
-.modal-footer {
-  background-image: linear-gradient(white,#7FDBFF);
-}
 #left-panel-link {
   position: relative;
   left: 5%;
@@ -65,4 +58,7 @@ body {
 }
 .sep {
   height: 25px;
+}
+.modal-body{
+  word-break: break-all;
 }
